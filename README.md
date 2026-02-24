@@ -13,6 +13,8 @@ Aplikasi ini dibangun untuk memantau kadar gas metana secara **real-time** melal
 2. **Pengambilan Keputusan** — Memastikan data sensor gas metana dapat dipantau secara real-time untuk mendukung pengambilan keputusan yang cepat berdasarkan kondisi.
 3. **Data Historis** — Menyimpan data historis secara terstruktur, mendukung proses dokumentasi dan analisis untuk pengelolaan gas metana secara berkelanjutan.
 
+> ⚠️ **Catatan:** Aplikasi ini merupakan **antarmuka web (frontend & backend)** untuk pemantauan data sensor gas metana. Untuk implementasi ke perangkat IoT secara langsung (seperti ESP32, Arduino, atau sensor MQ-4), diperlukan pengembangan lebih lanjut pada sisi hardware dan koneksi API ke database.
+
 ---
 
 ## 🛠️ Tech Stack
