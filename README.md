@@ -109,12 +109,12 @@ Gunakan kredensial berikut:
 ## 👤 Developer
 
 **Abdurrahman Hanif**
-- D3 Teknik Komputer — Politeknik Negeri Sriwijaya
 - 📧 ahanif562@gmail.com
 - 🔗 [GitHub](https://github.com/AniffXP)
+- 💬https://t.me/anonyxpp
 
 ---
 
 ## 📄 Lisensi
 
-Project ini dibuat untuk keperluan **Laporan Akhir / Magang** di PT Pupuk Sriwidjaja Palembang.
+Project ini dibuat untuk keperluan **Laporan Magang** di PT Pupuk Sriwidjaja Palembang.
