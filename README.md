@@ -17,6 +17,20 @@ Aplikasi ini dibangun untuk memantau kadar gas metana secara **real-time** melal
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard - Grafik Akurasi Sensor](screenshots/dashboard-1.png)
+![Dashboard - Data Terbaru](screenshots/dashboard-2.png)
+
+### Daily Monitoring
+![Daily Monitoring - Peta & Data Sensor](screenshots/daily-monitoring.png)
+
+### Operasi
+![Operasi - Data Akurasi & Daftar Sensor](screenshots/operasi.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Teknologi | Keterangan |
